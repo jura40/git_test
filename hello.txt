@@ -1,2 +1,3 @@
 Ovo je prvi test za git hub za sada.
-Sad je rekao Alen da stavimo 
+Sad je rekao Alen da stavimo git.
+Ovo je za new_branchgit
